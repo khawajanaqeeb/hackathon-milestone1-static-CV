@@ -1,0 +1,58 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: antiquewhite;
+    margin: 0;
+    padding: 200px;
+}
+
+.my-resume {
+    
+    background-color: rgb(202, 202, 220);
+    width: 90%;
+    margin: 5px;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(red, green, blue);
+
+}
+
+#profile-pic{
+    width: 150px;
+    height: 150px;
+    margin-top: 1%;
+    border-radius: 50%;
+    margin-left: 33%;
+    border: 5px solid rgb(106, 0, 255);
+    
+}
+
+h1{
+    font-size: 30px;
+    align-items: left;
+    margin-left: 30%;
+}
+
+h3{
+    font-size: 18px;
+    padding: 2%;
+    margin: 10px 0 10px;
+    color: black;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgb(0, 136, 255);
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+button{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 15px;
+    box-shadow: 0 0 black;
+    font-size: 18px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgb(141, 141, 35);
+
+}
+p{
+    margin-left: 5%;
+}
